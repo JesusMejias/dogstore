@@ -22,17 +22,11 @@ body {
     padding: 0;
     color: $gray;
     font-family: 'Atlata', Arial, sans-serif;
-    background-image: none;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
     min-height: 100vh;
     font-size: 1rem;
 
     @media screen and (min-width: $full-size) {
         font-size: 1.5rem;
-        background-image: url(./bg.jpg);
     }
 }
 
@@ -60,10 +54,6 @@ h1:first-child {
         padding: 1rem 0;
         background-color: transparent;
         border: none;
-    }
-
-    @media screen and (min-width: $full-size) {
-        margin-top: 16rem;
     }
 
     & span {
@@ -525,6 +515,7 @@ h3:first-child {
                     & h2 {
                         padding-right: 60px;
                         margin-bottom: 0;
+                        line-height: 1.5rem;
                     }
                 }
 

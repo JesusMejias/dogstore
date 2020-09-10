@@ -11,11 +11,6 @@ body {
   padding: 0;
   color: #575757;
   font-family: 'Atlata', Arial, sans-serif;
-  background-image: none;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
   min-height: 100vh;
   font-size: 1rem;
 }
@@ -23,7 +18,6 @@ body {
 @media screen and (min-width: 992px) {
   body {
     font-size: 1.5rem;
-    background-image: url(./bg.jpg);
   }
 }
 
@@ -53,12 +47,6 @@ h1:first-child {
     padding: 1rem 0;
     background-color: transparent;
     border: none;
-  }
-}
-
-@media screen and (min-width: 992px) {
-  h1:first-child {
-    margin-top: 16rem;
   }
 }
 
@@ -658,6 +646,7 @@ h3:first-child {
   .main__location__info__box h2 {
     padding-right: 60px;
     margin-bottom: 0;
+    line-height: 1.5rem;
   }
 }
 
