@@ -13,7 +13,7 @@ DogStore is a portfolio project that uses JvaScript and SCSS to make things come
 It supports different screen sizes: Mobile, tablet, and desktop.
 
 ### Desktop:
-![Desktop](https://user-images.githubusercontent.com/42305901/92672469-bddd0580-f2e6-11ea-8b3c-0c5a4c406fec.png)
+![Desktop](https://user-images.githubusercontent.com/42305901/92673945-4f01ab80-f2ea-11ea-8509-2a8038feb960.gif)
 
 ### Tablet:
 ![Tablet](https://user-images.githubusercontent.com/42305901/92540341-4047c580-f212-11ea-8d74-8b6fb8006396.png)
