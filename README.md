@@ -1,4 +1,4 @@
-[Live Demo](https://jesusmejias.com/projects/dogstore)
+[Live Demo](https://dogstore.jesusmejias.com)
 
 # DogStore - Portfolio Project
 
