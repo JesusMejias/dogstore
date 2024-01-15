@@ -1,5 +1,3 @@
-[Live Demo](https://dogstore.jesusmejias.com)
-
 # DogStore - Portfolio Project
 
 ![Preview](https://user-images.githubusercontent.com/42305901/92672440-adc52600-f2e6-11ea-83b1-f8ff44c85018.png)
